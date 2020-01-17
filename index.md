@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Spotify Genre Classification](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/genre-class-summary.png?raw=true"/>
 
 ---
 [Plotly Dash Tutorial](/pdf/sample_presentation.pdf)
