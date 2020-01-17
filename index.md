@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
 [Spotify Genre Classification](https://github.com/stujenn/genre-classifier)
 <img src="images/genre-class-summary.png"/>
