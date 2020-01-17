@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Spotify Genre Classification](/sample_page)
+[Spotify Genre Classification](https://github.com/stujenn/genre-classifier)
 <img src="images/genre-class-summary.png"/>
 
 ---
-[Plotly Dash Tutorial](/pdf/sample_presentation.pdf)
+[Plotly Dash Tutorial](https://github.com/stujenn/dash-ex)
 <img src="images/dash-tut.png"/>
 
 ---
