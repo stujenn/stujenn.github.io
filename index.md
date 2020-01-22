@@ -12,12 +12,12 @@
 ### Data Visualization
 
 ---
-[Plotly Dash Tutorial](https://github.com/stujenn/dash-ex)
-<img src="images/dash-tut.png"/>
-
----
 [R Shiny Dashboard](https://stu-jenn.shinyapps.io/sample_dash/)
 <img src="images/sample_dashboard.png"/>
+
+---
+[Plotly Dash Tutorial](https://github.com/stujenn/dash-ex)
+<img src="images/dash-tut.png"/>
 
 ---
 
