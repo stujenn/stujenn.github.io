@@ -4,7 +4,8 @@
 
 ### Machine Learning 
 
-[Spotify Genre Classification](https://github.com/stujenn/genre-classifier)
+---
+[(Python) Spotify Genre Classification](https://github.com/stujenn/genre-classifier)
 <img src="images/genre-class-summary.png"/>
 
 ---
@@ -12,17 +13,20 @@
 ### Data Visualization
 
 ---
-[R Shiny Dashboard](https://stu-jenn.shinyapps.io/sample_dash/)
+[(R) Forecast Dashboard](https://stu-jenn.shinyapps.io/sample_dash/)
 <img src="images/sample_dashboard.png"/>
 
 ---
-[Plotly Dash Tutorial](https://github.com/stujenn/dash-ex)
+[(Python) Plotly Dash Tutorial](https://github.com/stujenn/dash-ex)
 <img src="images/dash-tut.png"/>
 
 ---
 
+### Reports
 
+* [(R) Farm Appraisal](https://drive.google.com/file/d/1J-3fQCSR1nqEaKNK3p_UJaj-DZPAPcQa/view?usp=sharing)
 
+* [(R) Pine Beetle Analysis](https://drive.google.com/file/d/11AWZoL2XwOpkGC-OsG1mMysPiutGqtFf/view?usp=sharing)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
