@@ -25,7 +25,7 @@
 ### Reports
 
 * [Multiple Linear Regression](https://drive.google.com/file/d/1J-3fQCSR1nqEaKNK3p_UJaj-DZPAPcQa/view?usp=sharing)
-* [Logisitc Regression](https://drive.google.com/file/d/11AWZoL2XwOpkGC-OsG1mMysPiutGqtFf/view?usp=sharing)
+* [Logistic Regression](https://drive.google.com/file/d/11AWZoL2XwOpkGC-OsG1mMysPiutGqtFf/view?usp=sharing)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
